@@ -1,0 +1,23 @@
+/* bluestyle.css */
+body {
+  background-color: #e6f0ff;  /* light blue background */
+  color: #003366;             /* dark blue text */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #0047ab;             /* medium blue headings */
+  text-align: center;
+}
+
+a {
+  color: #1a75ff;             /* blue links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
